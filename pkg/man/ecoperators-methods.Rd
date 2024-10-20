@@ -46,7 +46,7 @@ AND(x, y)
 \description{
 The following operarations for EC points
 are available:
-\itemize{
+\describe{
 \item{doubleUp}{multiplying a point by itself}
 \item{+}{point addition}
 \item{leftmostBit}{highest bit value of an integer}

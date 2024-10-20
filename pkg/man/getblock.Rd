@@ -20,8 +20,8 @@ A S4-object of class \code{ANSRPC}.
 Returns information of a block hash. The returned level of details depends on the
 argument \code{verbosity}.
 }
-\section{}{
- Details
+
+\details{
 If verbosity is 'l0', returns a string that is serialized,
 hex-encoded data for block 'hash'.
 If verbosity is 'l1' (the default), returns an object with information about block <hash>.

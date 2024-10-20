@@ -19,8 +19,7 @@ A S4-object of class \code{ANSRPC}.
 \description{
 Returns the raw transaction data.
 }
-\section{}{
- Details
+\details{
 By default this function only works for mempool transactions.
 If the -txindex option is enabled, it also works for blockchain transactions.
 DEPRECATED: for now, it also works for transactions with unspent outputs.
